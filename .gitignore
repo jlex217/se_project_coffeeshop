@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Logs
 logs
 .log
@@ -22,3 +23,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+.DS_Store
+>>>>>>> 47dbab8ea99b24b18f8cf8e187563db6f67a24fd
